@@ -9,22 +9,26 @@ Ph.D. Candidate in Computer Science and Engineering
 Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbuk-gu, Seoul, Korea 02841  
 [donghyeon@korea.ac.kr](mailto:donghyeon@korea.ac.kr)  
 [CV](https://drive.google.com/open?id=1ZDUwPOBERcefMfnGjfVhBA4iI2T0hzYw)  
-[Google Scholar](https://scholar.google.co.kr/citations?user=xXtpg50AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/donghyeonk/), [GitHub](https://donghyeonk.github.com)  
+[Google Scholar](https://scholar.google.co.kr/citations?user=xXtpg50AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/donghyeonk/), [GitHub](https://github.com/donghyeonk)  
 * Research Interests
     * Natural language processing, text mining, bioinformatics, machine learning
 * Education
-    * Ph.D. candidate in Computer Science and Engineering
-        * Korea University, Seoul, Korea, Mar 2011 - Feb 2020 (expected) (On leave: two startups, Oct 2014 - Mar 2018)
+    * Ph.D. in Computer Science and Engineering
+        * Korea University, Seoul, Korea, Mar 2011 - Feb 2020 (expected) (On leave: startups, Oct 2014 - Mar 2018)
             * Advisor: [Prof. Jaewoo Kang](https://dmis.korea.ac.kr/jaewoo-kang-p-i)
     * B.S. in Computer Science Education
         * Korea University, Seoul, Korea, Mar 2003 - Feb 2011 (On leave: military service, Aug 2006 - Jul 2008)
             * Advisor: [Prof. Seongbin Park](mailto:hyperspace@korea.ac.kr)
 * Work Experience
-    * Data Scientist & Software Engineer at [Konolabs, Inc.](https://kono.ai), Seoul, Korea, Apr 2016 - Mar 2018
+    * Data Scientist & Software Engineer at [Konolabs, Inc.](https://kono.ai), Seoul, Korea, Apr 2016 - Mar 2018 (Dispatch from Korea Univ. Apr 2016 - Dec 2016)
         * Event start time prediction by learning online calendar data
-    * CTO & Co-founder at Opinion8, Inc., Seoul, Korea, Oct 2014 - Apr 2016
+        * Schedule relevant sentence classification using pretrained word embeddings
+        * Email bot implementation & architecture design
+    * CTO & Co-founder at Opinion8, Inc., Seoul, Korea, Oct 2014 - Apr 2016 (Dispatch from Korea Univ.)
         * Entity search service based on opinion, location, and time for travelers
-    * Marine, Republic of Korea Marine Corps, Pohang, Korea, Aug 2006 - Jul 2008
+        * Sentiment analysis using dependency trees and part-of-speech tags
+        * Calculating data statistics using MapReduce
+    * Signal corpsman, Republic of Korea Marine Corps, Pohang, Korea, Aug 2006 - Jul 2008
         * Military service
 * Publications
     * International Conference
@@ -59,11 +63,13 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
     * Information Retrieval
         * Apache Solr, Apache Lucene
     * Natural Language Processing
-        * spaCy, nltk, gensim, Stanford Parser, Google Cloud Natural Language API, Google Cloud Translation API
+        * spaCy, nltk, gensim, Stanford CoreNLP, Google Cloud Natural Language API, Google Cloud Translation API, FANSE parser, SentiWordNet
     * Machine Learning
         * TensorFlow, PyTorch, scikit-learn
     * MapReduce
         * Apache Spark, Apache Hadoop
+    * Database
+        * Amazon DynamoDB, MongoDB, MySQL
     * Cloud Computing
         * Amazon Web Services, Google Cloud Platform, IBM Cloud
 * Certification
