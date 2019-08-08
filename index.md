@@ -40,7 +40,7 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
     * International Journal
         * **Donghyeon Kim**, Jinhyuk Lee, Chan Ho So, Hwisang Jeon, Minbyul Jeong, Yonghwa Choi, Wonjin Yoon, Mujeen Sung and Jaewoo Kang* ["A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining"](https://doi.org/10.1109/ACCESS.2019.2920708), 2019, IEEE Access (SCIE, IF: 4.098), [web service](https://bern.korea.ac.kr)
         * Sunwon Lee<sup>†</sup>, **Donghyeon Kim**<sup>†</sup>, Kyubum Lee, Jaehoon Choi, Seongsoon Kim, Minji Jeon, Sangrak Lim, Donghee Choi, Sunkyu Kim, Aik-Choon Tan and Jaewoo Kang* ["BEST: Next-Generation Biomedical Entity Search Tool for Knowledge Discovery from Biomedical Literature"](https://doi.org/10.1371/journal.pone.0164680), 2016, PLoS ONE, Oct 2016 (SCIE, IF: 3.057), [web service](http://best.korea.ac.kr)
-        * Jaehoon Choi, **Donghyeon Kim**, Seongsoon Kim, Sunwon Lee, Kyubum Lee and Jaewoo Kang* ["BOSS: context-enhanced search for biomedical objects"](https://doi.org/10.1186/1472-6947-12-S1-S7), 2012, BMC Medical Informatics and Decision Making, Vol. 12, No. 1. Apr 2012 (SCIE, IF: 2.239)
+        * Jaehoon Choi, **Donghyeon Kim**, Seongsoon Kim, Sunwon Lee, Kyubum Lee and Jaewoo Kang* ["BOSS: context-enhanced search for biomedical objects"](https://doi.org/10.1186/1472-6947-12-S1-S7), 2012, BMC Medical Informatics and Decision Making, Vol. 12, No. 1. (SCIE, IF: 2.239)
     * Domestic Conference
         * 김병주, 고유경, 소찬호, 김동현, 강재우* ["언어 모델링에서의 단어의 효율적인 코드북 표현"](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07502967), 2018, 한국컴퓨터종합학술대회, Poster
         * 이주경, 최재훈, 김동현, 최동희, 유민환, 강재우* ["의사결정 지원을 위한 소셜네트워크 서비스의 질의응답 데이터 활용 방안"](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602939), 2015, 한국정보과학회, Poster
@@ -63,7 +63,7 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
     * Information Retrieval
         * Apache Solr, Apache Lucene
     * Natural Language Processing
-        * spaCy, nltk, gensim, Stanford CoreNLP, Google Cloud Natural Language API, Google Cloud Translation API, FANSE parser, SentiWordNet
+        * spaCy, nltk, gensim, Stanford CoreNLP, Google Cloud Natural Language API, Google Cloud Translation API, FANSE parser, SentiWordNet, HeidelTime
     * Machine Learning
         * TensorFlow, PyTorch, scikit-learn
     * MapReduce
