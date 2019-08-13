@@ -11,7 +11,7 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
 [CV](https://donghyeonk.github.io/CV.pdf)  
 [Google Scholar](https://scholar.google.co.kr/citations?user=xXtpg50AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/donghyeonk/), [GitHub](https://github.com/donghyeonk)  
 * Research Interests
-    * Natural language processing, text mining, bioinformatics, machine learning
+    * Natural language processing, information retrieval, machine learning, bioinformatics
 * Education
     * Ph.D. in Computer Science and Engineering
         * Korea University, Seoul, Korea, Mar 2011 - Feb 2020 (expected) (On leave: startups, Oct 2014 - Mar 2018)
@@ -42,20 +42,20 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
         * Sunwon Lee<sup>†</sup>, **Donghyeon Kim**<sup>†</sup>, Kyubum Lee, Jaehoon Choi, Seongsoon Kim, Minji Jeon, Sangrak Lim, Donghee Choi, Sunkyu Kim, Aik-Choon Tan and Jaewoo Kang* ["BEST: Next-Generation Biomedical Entity Search Tool for Knowledge Discovery from Biomedical Literature"](https://doi.org/10.1371/journal.pone.0164680), 2016, PLoS ONE, Oct 2016 (SCIE, IF: 3.057), [web service](http://best.korea.ac.kr)
         * Jaehoon Choi, **Donghyeon Kim**, Seongsoon Kim, Sunwon Lee, Kyubum Lee and Jaewoo Kang* ["BOSS: context-enhanced search for biomedical objects"](https://doi.org/10.1186/1472-6947-12-S1-S7), 2012, BMC Medical Informatics and Decision Making, Vol. 12, No. 1. (SCIE, IF: 2.239)
     * Domestic Conference
-        * 김병주, 고유경, 소찬호, 김동현, 강재우* ["언어 모델링에서의 단어의 효율적인 코드북 표현"](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07502967), 2018, 한국컴퓨터종합학술대회, Poster
-        * 이주경, 최재훈, 김동현, 최동희, 유민환, 강재우* ["의사결정 지원을 위한 소셜네트워크 서비스의 질의응답 데이터 활용 방안"](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602939), 2015, 한국정보과학회, Poster
+        * 김병주, 고유경, 소찬호, **김동현**, 강재우* ["언어 모델링에서의 단어의 효율적인 코드북 표현"](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07502967), 2018, 한국컴퓨터종합학술대회, Poster
+        * 이주경, 최재훈, **김동현**, 최동희, 유민환, 강재우* ["의사결정 지원을 위한 소셜네트워크 서비스의 질의응답 데이터 활용 방안"](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06602939), 2015, 한국정보과학회, Poster
     * Domestic Journal
-        * 최재훈, 최동희, 김동현, 김성순, 임상락, 강재우* ["소셜 빅데이터를 활용한 의사 결정 검색 기술"](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02344652), 2014, 정보과학회지, Vol. 32, Issue 296, Pages 44-52. Jan 2014
+        * 최재훈, 최동희, **김동현**, 김성순, 임상락, 강재우* ["소셜 빅데이터를 활용한 의사 결정 검색 기술"](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02344652), 2014, 정보과학회지, Vol. 32, Issue 296, Pages 44-52. Jan 2014
     * Preprint
         * Jinhyuk Lee<sup>†</sup>, Wonjin Yoon<sup>†</sup>, Sungdong Kim, **Donghyeon Kim**, Sunkyu Kim, Chan Ho So and Jaewoo Kang* "BioBERT: a pre-trained biomedical language representation model for biomedical text mining", 2019, [arXiv](https://arxiv.org/abs/1901.08746), [code](https://github.com/dmis-lab/biobert)
-* Patents
-    * Jaewoo Kang, **Donghyeon Kim**, Jinhyuk Lee, Jaehoon Choi ["Method, system and non-transitory computer-readable recording medium for providing predictions on calendar"](https://patents.google.com/patent/US20180174108A1/en), 21 Jun 2018, Application (pending)
-    * Yun Jeong Min, Jaehoon Choi, **Donghyeon Kim**, Jinhyuk Lee ["Method, system and non-transitory computer-readable recording medium for providing schedule-related advertisements"](https://patents.google.com/patent/US20180174191A1/en), 21 Jun 2018, Application (pending )
 * Awards
     * [BioASQ Task b on biomedical semantic question answering, Phase B test batch 1-5](http://participants-area.bioasq.org/results/7b/phaseB/) winner, BioASQ Challenge, 2019
     * The grand prize, 대상, Opinion8, Start-up competition, Korea University, 2015
     * Summa cum laude, 성적우수, Spring 2010, College of Education, Korea University, 2010
     * Summa cum laude, 성적우수, Fall 2009, College of Education, Korea University, 2010
+* Patents
+    * Jaewoo Kang, **Donghyeon Kim**, Jinhyuk Lee, Jaehoon Choi ["Method, system and non-transitory computer-readable recording medium for providing predictions on calendar"](https://patents.google.com/patent/US20180174108A1/en), 21 Jun 2018, Application (pending)
+    * Yun Jeong Min, Jaehoon Choi, **Donghyeon Kim**, Jinhyuk Lee ["Method, system and non-transitory computer-readable recording medium for providing schedule-related advertisements"](https://patents.google.com/patent/US20180174191A1/en), 21 Jun 2018, Application (pending)
 * Service
     * Secondary reviewer
         * WWW (2014, 2013), CIKM(2011), ICDM (2019), BIBM (2018, 2012, 2011), ICDE (2014), ICWSM (2014), SIAM (2011)
