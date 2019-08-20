@@ -28,7 +28,7 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
         * Entity search service based on opinion, location, and time for travelers
         * Sentiment analysis using dependency trees and part-of-speech tags
         * Calculating data statistics using MapReduce
-    * Computer, signal corpsman in the 1st division HQ, Republic of Korea Marine Corps, Pohang, Korea, Aug 2006 - Jul 2008
+    * Computer, signal corpsman in the 1st division HQ (1사단 본부 전산병), Republic of Korea Marine Corps, Pohang, Korea, Aug 2006 - Jul 2008
         * Military service
 * Publications
     * International Conference
@@ -50,9 +50,9 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
         * Jinhyuk Lee<sup>†</sup>, Wonjin Yoon<sup>†</sup>, Sungdong Kim, **Donghyeon Kim**, Sunkyu Kim, Chan Ho So and Jaewoo Kang* "BioBERT: a pre-trained biomedical language representation model for biomedical text mining", 2019, [[arXiv]](https://arxiv.org/abs/1901.08746), [code](https://github.com/dmis-lab/biobert)
 * Awards
     * [BioASQ Task b on biomedical semantic question answering, Phase B test batch 1-5](http://participants-area.bioasq.org/results/7b/phaseB/) winner, BioASQ Challenge, 2019
-    * The grand prize, 대상, Opinion8, Start-up competition, Korea University, 2015
-    * Summa cum laude, 성적우수, Spring 2010, College of Education, Korea University, 2010
-    * Summa cum laude, 성적우수, Fall 2009, College of Education, Korea University, 2010
+    * The grand prize (대상), Opinion8, Start-up competition, Korea University, 2015
+    * Summa cum laude (성적우수), Spring 2010, College of Education, Korea University, 2010
+    * Summa cum laude (성적우수), Fall 2009, College of Education, Korea University, 2010
 * Patents
     * Jaewoo Kang, **Donghyeon Kim**, Jinhyuk Lee, Jaehoon Choi ["Method, system and non-transitory computer-readable recording medium for providing predictions on calendar"](https://patents.google.com/patent/US20180174108A1/en), 21 Jun 2018, Application (pending)
     * Yun Jeong Min, Jaehoon Choi, **Donghyeon Kim**, Jinhyuk Lee ["Method, system and non-transitory computer-readable recording medium for providing schedule-related advertisements"](https://patents.google.com/patent/US20180174191A1/en), 21 Jun 2018, Application (pending)
@@ -63,7 +63,7 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
     * Information Retrieval
         * Apache Solr, Apache Lucene
     * Natural Language Processing
-        * spaCy, nltk, gensim, Stanford CoreNLP, Google Cloud Natural Language API, Google Cloud Translation API, FANSE parser, SentiWordNet, HeidelTime
+        * spaCy, nltk, gensim, Stanford CoreNLP, Google Cloud Natural Language API, Google Cloud Translation API, FANSE parser, SentiWordNet, HeidelTime, SentencePiece
     * Machine Learning
         * TensorFlow, PyTorch, scikit-learn
     * MapReduce
@@ -73,6 +73,6 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
     * Cloud Computing
         * Amazon Web Services, Google Cloud Platform, IBM Cloud
 * Certification
-    * Engineer Information Processing, 정보처리기사, Human Resources Development Service of Korea, May 2010
-    * 1st grade of Computer Application, 컴퓨터활용능력 1급, Korea Chamber of Commerce and Industry, Feb 2010
-    * Industrial Engineer Office Automation, 사무자동화산업기사, Human Resources Development Service of Korea, Aug 2009
+    * Engineer Information Processing (정보처리기사), Human Resources Development Service of Korea, May 2010
+    * 1st grade of Computer Application (컴퓨터활용능력 1급), Korea Chamber of Commerce and Industry, Feb 2010
+    * Industrial Engineer Office Automation (사무자동화산업기사), Human Resources Development Service of Korea, Aug 2009
