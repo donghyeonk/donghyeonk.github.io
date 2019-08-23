@@ -46,6 +46,3 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
 * Patents
     * Jaewoo Kang, **Donghyeon Kim**, Jinhyuk Lee, Jaehoon Choi ["Method, system and non-transitory computer-readable recording medium for providing predictions on calendar"](https://patents.google.com/patent/US20180174108A1/en), 21 Jun 2018, Application (pending)
     * Yun Jeong Min, Jaehoon Choi, **Donghyeon Kim**, Jinhyuk Lee ["Method, system and non-transitory computer-readable recording medium for providing schedule-related advertisements"](https://patents.google.com/patent/US20180174191A1/en), 21 Jun 2018, Application (pending)
-* Service
-    * Secondary reviewer
-        * WWW (2014, 2013), CIKM(2011), ICDM (2019), BIBM (2018, 2012, 2011), ICDE (2014), ICWSM (2014), SIAM (2011)
