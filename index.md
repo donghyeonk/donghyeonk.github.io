@@ -23,7 +23,7 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
     * Data Scientist & Software Engineer at [Konolabs, Inc.](https://kono.ai), Seoul, Korea, Apr 2016 - Mar 2018 (Dispatch from Korea Univ. Apr 2016 - Dec 2016)
         * Event start time prediction by learning online calendar contexts and user preferences
         * Schedule relevant sentence classification using pretrained word embeddings
-        * Email bot implementation & architecture design
+        * Email bot architecture design & implementation
     * CTO & Co-founder at Opinion8, Inc., Seoul, Korea, Oct 2014 - Apr 2016 (Dispatch from Korea Univ.)
         * Entity search service based on opinion, location, and time for travelers
         * Sentiment analysis using dependency trees and part-of-speech tags
@@ -36,16 +36,12 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
         * Jaehoon Choi, **Donghyeon Kim**, Donghee Choi, Sangrak Lim, Seongsoon Kim, Youngjae Choi and Jaewoo Kang ["Smith Search: Opinion-Based Restaurant Search Engine"](https://dl.acm.org/citation.cfm?id=2742829), 2015, WWW, Demo
         * Jaehoon Choi, **Donghyeon Kim**, Seongsoon Kim, Junkyu Lee, Sangrak Im, Sunwon Lee and Jaewoo Kang ["Consento: A Consensus Search Engine for Answering Subjective Queries"](https://dl.acm.org/citation.cfm?id=2188087), 2012, WWW, Poster, [[web service]](http://consento.korea.ac.kr)
     * International Journal
+        * Jinhyuk Lee<sup>†</sup>, Wonjin Yoon<sup>†</sup>, Sungdong Kim, **Donghyeon Kim**, Sunkyu Kim, Chan Ho So and Jaewoo Kang "BioBERT: a pre-trained biomedical language representation model for biomedical text mining", 2019, Bioinformatics (in press) (SCI, IF: 4.531), [[arXiv]](https://arxiv.org/abs/1901.08746), [[code]](https://github.com/dmis-lab/biobert), <sup>†</sup>Equal contribution
         * **Donghyeon Kim**, Jinhyuk Lee, Chan Ho So, Hwisang Jeon, Minbyul Jeong, Yonghwa Choi, Wonjin Yoon, Mujeen Sung and Jaewoo Kang ["A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining"](https://doi.org/10.1109/ACCESS.2019.2920708), 2019, IEEE Access (SCIE, IF: 4.098), [[code]](https://github.com/dmis-lab/bern), [[web service]](https://bern.korea.ac.kr)
         * Sunwon Lee<sup>†</sup>, **Donghyeon Kim**<sup>†</sup>, Kyubum Lee, Jaehoon Choi, Seongsoon Kim, Minji Jeon, Sangrak Lim, Donghee Choi, Sunkyu Kim, Aik-Choon Tan and Jaewoo Kang ["BEST: Next-Generation Biomedical Entity Search Tool for Knowledge Discovery from Biomedical Literature"](https://doi.org/10.1371/journal.pone.0164680), 2016, PLoS ONE (SCIE, IF: 3.057), [[web service]](http://best.korea.ac.kr), <sup>†</sup>Equal contribution
-    * Preprint
-        * Jinhyuk Lee<sup>†</sup>, Wonjin Yoon<sup>†</sup>, Sungdong Kim, **Donghyeon Kim**, Sunkyu Kim, Chan Ho So and Jaewoo Kang ["BioBERT: a pre-trained biomedical language representation model for biomedical text mining"](https://arxiv.org/abs/1901.08746), 2019, [[arXiv]](https://arxiv.org/abs/1901.08746), [[code]](https://github.com/dmis-lab/biobert), <sup>†</sup>Equal contribution
 * Awards
     * [BioASQ Task b on biomedical semantic question answering, Phase B test batch 1-5](http://participants-area.bioasq.org/results/7b/phaseB/) winner, BioASQ Challenge, 2019
     * The grand prize (대상), Opinion8, Start-up competition, Korea University, 2015
 * Patents
     * Jaewoo Kang, **Donghyeon Kim**, Jinhyuk Lee, Jaehoon Choi ["Method, system and non-transitory computer-readable recording medium for providing predictions on calendar"](https://patents.google.com/patent/US20180174108A1/en), 21 Jun 2018, Application (pending)
     * Yun Jeong Min, Jaehoon Choi, **Donghyeon Kim**, Jinhyuk Lee ["Method, system and non-transitory computer-readable recording medium for providing schedule-related advertisements"](https://patents.google.com/patent/US20180174191A1/en), 21 Jun 2018, Application (pending)
-* Service
-    * Secondary reviewer
-        * WWW (2014, 2013), CIKM(2011), ICDM (2019), BIBM (2018, 2012, 2011), ICDE (2014), ICWSM (2014), SIAM (2011)
