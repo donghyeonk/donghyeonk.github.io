@@ -21,13 +21,13 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
             * Advisor: [Prof. Seongbin Park](mailto:hyperspace@korea.ac.kr)
 * Work Experience
     * Data Scientist & Software Engineer at [Konolabs, Inc.](https://kono.ai), Seoul, Korea, Apr 2016 - Mar 2018 (Dispatch from Korea Univ. Apr 2016 - Dec 2016)
-        * Event start time prediction by learning online calendar contexts and user preferences
-        * Schedule relevant sentence classification using pretrained word embeddings
+        * Event start time prediction by learning online calendar event titles, contexts and user preferences
+        * Scheduling related sentence classification using pretrained word embeddings
         * Email bot architecture design & implementation
     * CTO & Co-founder at Opinion8, Inc., Seoul, Korea, Oct 2014 - Apr 2016 (Dispatch from Korea Univ.)
-        * Entity search service based on opinion, location, and time for travelers
+        * Restaurant/attraction/hotel search service based on opinion, location, and time for travelers
         * Sentiment analysis using dependency trees and part-of-speech tags
-        * Calculating data statistics using MapReduce
+        * Calculating data/error statistics using MapReduce
     * Computer, signal corpsman in the 1st division HQ (1사단 본부 전산병), Republic of Korea Marine Corps, Pohang, Korea, Aug 2006 - Jul 2008
         * Military service
 * Selected Publications
