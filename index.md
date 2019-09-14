@@ -11,25 +11,7 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
 [[__CV__]](/CV.pdf)  
 [Google Scholar](https://scholar.google.co.kr/citations?user=xXtpg50AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/donghyeonk/), [GitHub](https://github.com/donghyeonk)
 * Research Interests
-    * Natural language processing, machine learning, information retrieval, bioinformatics
-* Education
-    * Ph.D. in Computer Science and Engineering
-        * Korea University, Seoul, Korea, Mar 2011 - Feb 2020 (expected) (On leave: startups, Oct 2014 - Mar 2018)
-            * Advisor: [Prof. Jaewoo Kang](https://dmis.korea.ac.kr/jaewoo-kang-p-i)
-    * B.S. in Computer Science Education
-        * Korea University, Seoul, Korea, Mar 2003 - Feb 2011 (On leave: military service, Aug 2006 - Jul 2008)
-            * Advisor: [Prof. Seongbin Park](mailto:hyperspace@korea.ac.kr)
-* Work Experience
-    * Data Scientist & Software Engineer at [Konolabs, Inc.](https://kono.ai), Seoul, Korea, Apr 2016 - Mar 2018 (Dispatch from Korea Univ. Apr 2016 - Dec 2016)
-        * Event start time prediction by learning online calendar event titles, contexts and user preferences
-        * Scheduling related sentence classification using pretrained word embeddings
-        * Email bot architecture design & implementation
-    * CTO & Co-founder at Opinion8, Inc., Seoul, Korea, Oct 2014 - Apr 2016 (Dispatch from Korea Univ.)
-        * Restaurant/attraction/hotel search service based on opinion, location, and time for travelers
-        * Sentiment analysis using dependency trees and part-of-speech tags
-        * Calculating data/error statistics using MapReduce
-    * Computer, signal corpsman in the 1st division HQ (1사단 본부 전산병), Republic of Korea Marine Corps, Pohang, Korea, Aug 2006 - Jul 2008
-        * Military service
+    * Natural Language processing, Text Mining, Machine Learning, Bioinformatics
 * Selected Publications
     * International Conference
         * **Donghyeon Kim**<sup>†</sup>, Jinhyuk Lee<sup>†</sup>, Donghee Choi, Jaehoon Choi and Jaewoo Kang ["Learning User Preferences and Understanding Calendar Contexts for Event Scheduling"](https://dl.acm.org/citation.cfm?doid=3269206.3271712), 2018, CIKM, Long paper, [[arXiv]](https://arxiv.org/abs/1809.01316), [[code]](https://github.com/dmis-lab/nesa), <sup>†</sup>Equal contribution
@@ -40,7 +22,7 @@ Office 501B, Woojung Hall of Informatics, Korea University, 145 Anam-ro, Seongbu
         * **Donghyeon Kim**, Jinhyuk Lee, Chan Ho So, Hwisang Jeon, Minbyul Jeong, Yonghwa Choi, Wonjin Yoon, Mujeen Sung and Jaewoo Kang ["A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining"](https://doi.org/10.1109/ACCESS.2019.2920708), 2019, IEEE Access (SCIE, IF: 4.098), [[code]](https://github.com/dmis-lab/bern), [[web service]](https://bern.korea.ac.kr)
         * Sunwon Lee<sup>†</sup>, **Donghyeon Kim**<sup>†</sup>, Kyubum Lee, Jaehoon Choi, Seongsoon Kim, Minji Jeon, Sangrak Lim, Donghee Choi, Sunkyu Kim, Aik-Choon Tan and Jaewoo Kang ["BEST: Next-Generation Biomedical Entity Search Tool for Knowledge Discovery from Biomedical Literature"](https://doi.org/10.1371/journal.pone.0164680), 2016, PLoS ONE (SCIE, IF: 3.057), [[web service]](http://best.korea.ac.kr), <sup>†</sup>Equal contribution
 * Awards
-    * [BioASQ Task b on biomedical semantic question answering, Phase B test batch 1-5](http://participants-area.bioasq.org/results/7b/phaseB/) winner, BioASQ Challenge, 2019
+    * [BioASQ Task 7b on biomedical semantic question answering, Phase B test batch 1-5](http://participants-area.bioasq.org/results/7b/phaseB/) winner, BioASQ Challenge, 2019
     * The grand prize (대상), Opinion8, Start-up competition, Korea University, 2015
 * Patents
     * Jaewoo Kang, **Donghyeon Kim**, Jinhyuk Lee, Jaehoon Choi ["Method, system and non-transitory computer-readable recording medium for providing predictions on calendar"](https://patents.google.com/patent/US20180174108A1/en), 21 Jun 2018, Application (pending)
