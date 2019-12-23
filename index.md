@@ -6,7 +6,7 @@ layout: home
 ---
 <img align="right" width="120" height="180" src="/donghyeon_kim.jpg">Senior Research Engineer at Hyundai Motor Company AI Research Lab.  
 Ph.D. Candidate in Computer Science and Engineering  
-[Data Mining & Information Systems Lab.](https://dmis.korea.ac.kr) of [Professor Jaewoo Kang](https://dmis.korea.ac.kr/jaewoo-kang-p-i)  
+ 
 [donghyeonk@me.com](mailto:donghyeonk@me.com)  
 [[__CV__]](/CV.pdf)  
 [Google Scholar](https://scholar.google.co.kr/citations?user=xXtpg50AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/donghyeonk/), [GitHub](https://github.com/donghyeonk)
