@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img align="right" width="120" height="180" src="/donghyeon_kim.jpg">Senior Research Engineer at Hyundai Motor Company AI Research Lab 
+<img align="right" width="120" height="180" src="/donghyeon_kim.jpg">Senior Research Engineer at Hyundai Motor Company AIR Lab 
  
 [donghyeonk@me.com](mailto:donghyeonk@me.com)  
 [[__CV__]](/CV.pdf)  
