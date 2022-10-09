@@ -13,5 +13,5 @@ layout: home
     * Natural Language processing
     * Bioinformatics
 * Patents
-    * Jaewoo Kang, **Donghyeon Kim**, Jinhyuk Lee, Jaehoon Choi ["Method, system and non-transitory computer-readable recording medium for providing predictions on calendar"](https://patents.google.com/patent/US20180174108A1/en)
-    * Yun Jeong Min, Jaehoon Choi, **Donghyeon Kim**, Jinhyuk Lee ["Method, system and non-transitory computer-readable recording medium for providing schedule-related advertisements"](https://patents.google.com/patent/US20180174191A1/en)
+    * Jaewoo Kang, **Donghyeon Kim**, Jinhyuk Lee, Jaehoon Choi ["Method, system and non-transitory computer-readable recording medium for providing predictions on calendar"](https://patents.google.com/patent/US20180174108A1/) ["캘린더에 관한 예측을 제공하기 위한 방법, 시스템 및 비일시성의 컴퓨터 판독 가능한 기록 매체"](https://patents.google.com/patent/KR20180070912A/)
+    * Yun Jeong Min, Jaehoon Choi, **Donghyeon Kim**, Jinhyuk Lee ["Method, system and non-transitory computer-readable recording medium for providing schedule-related advertisements"](https://patents.google.com/patent/US20180174191A1/) ["일정과 연관된 광고를 제공하기 위한 방법, 시스템 및 비일시성의 컴퓨터 판독 가능한 기록 매체"](https://patents.google.com/patent/KR20180070921A/)
