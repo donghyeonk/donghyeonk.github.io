@@ -13,4 +13,3 @@ layout: home
     - Multimodal
         - Natural Language Processing
         - Computer Vision
-    - Quantum Computing
