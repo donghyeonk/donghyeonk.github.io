@@ -10,6 +10,5 @@ layout: home
 [[__CV__]](/CV.pdf)  
 [Google Scholar](https://scholar.google.co.kr/citations?user=xXtpg50AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/donghyeonk/), [GitHub](https://github.com/donghyeonk)
 - Research Interests
-    - Multimodal
-        - Natural Language Processing
-        - Computer Vision
+    - Natural Language Processing
+    - Text Mining
